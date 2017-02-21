@@ -1,0 +1,23 @@
+table {
+  text-align: left;
+}
+p.ex {
+  width: 200px;
+}
+th {
+  text-decoration: underline;
+  weight: bold;
+}
+table tr:nth-child(odd) td {
+  background: #3A2C22;
+  color: #FD6E8A;
+}
+td {
+  background: #FFFA81;
+  color: ##7C5D4A;
+}
+td:hover {
+  background:#752208;
+  color: #FD6E8A;
+}
+/* Color Palette adapted from: http://www.colourlovers.com/palette/129597/Pink_Poodle  */
